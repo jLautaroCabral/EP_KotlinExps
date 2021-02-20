@@ -7,4 +7,15 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="AppTheme.EditTextStyle" parent="AppTheme">
+        <item name="android:textSize">16dp</item>
+        <item name="android:drawablePadding">12dp</item>
+    </style>
+    
+    <style name="AppTheme.Red" parent="AppTheme">
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
 </resources>
